@@ -1,16 +1,13 @@
-# smart_home
 
-A new Flutter project.
 
-## Getting Started
+https://github.com/user-attachments/assets/fd0887ab-1b61-4612-bd7a-b5c1c0e64da9
 
-This project is a starting point for a Flutter application.
+<div style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/fd0887ab-1b61-4612-bd7a-b5c1c0e64da9" alt="image1" width="200" height="200">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+<div style="margin-top: 20px;"></div> <!-- This will add vertical space between the images -->
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<div style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/f78ffb1e-c3c1-4d0a-b7c0-449ffd29814f" alt="smart_home" width="200" height="400">
+</div>
